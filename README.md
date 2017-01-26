@@ -8,4 +8,5 @@ This is a very interesting class !!!
 ![git_comics](http://www.datamation.com/imagesvr_ce/9883/git.jpg)
 
 This is a remote edit 
+pouet 
 
